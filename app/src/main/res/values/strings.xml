@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Z-Tech Panic Button</string>
+    <string name="panic_button">Panic Button</string>
+    <string name="home">Home</string>
+    <string name="my_contacts">My Contacts</string>
+    <string name="my_emergency_message">My Emergency Message</string>
+    <string name="title_activity_maps">My Location</string>
+    <string name="send_my_message">Send My Message</string>
+</resources>

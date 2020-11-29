@@ -1,0 +1,23 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=B6:08:A0:E0:F8:03:88:9A:F5:AA:4E:57:3E:4E:72:7F:38:AF:60:4A%3Bcom.dicoding.picodiploma.panicbuttonapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.dicoding.picodiploma.panicbuttonapp
+
+    SHA-1 certificate fingerprint:
+    B6:08:A0:E0:F8:03:88:9A:F5:AA:4E:57:3E:4E:72:7F:38:AF:60:4A
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+AIzaSyClU1tdvnz2_Ez7RwsR0GwtLOI4FmI2ztE    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBmWOnpz6RZWyV3rRa3m3lSkscSsF9Nn5c</string>
+</resources>
